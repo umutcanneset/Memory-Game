@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">memoryGame</string>
+    <string name="pointsName1">Player1:</string>
+    <string name="points">0</string>
+    <string name="pointsName2">Player2:</string>
+    <string name="startButton">QUIT GAME</string>
+    <string name="nameApp">MEMORY GAME</string>
+    <string name="singleButton">Sıngle Player</string>
+    <string name="multiButton">Multı Player</string>
+</resources>
